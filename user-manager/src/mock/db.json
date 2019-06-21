@@ -1,0 +1,349 @@
+{   
+    "total": 18,
+    "info":[
+        { 
+            "key": 0,
+            "descrip":"我是一匹来自远方的狼。", 
+            "name": "Steven Hu",     
+            "password": "jukyk8712343", 
+            "email": "230fs3@qq.com", 
+            "phone": "13856617295",
+            "honor": "manager",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Music"
+        },
+        { 
+            "key": 1,
+            "descrip":"幅度为而来自远方的狼。", 
+            "name": "tomcat",     
+            "password": "ef8712343", 
+            "email": "4f33fd3@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Mail"
+        },
+        { 
+            "key": 2,
+            "descrip":"保存信息z自远方的狼。", 
+            "name": "赵静", 
+            "password": "nv7751234", 
+            "email": "23fdssd3@qq.com", 
+            "phone": "15556617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        },
+        { 
+            "key": 3,
+            "descrip":"首发四分卫自远方的狼。", 
+            "name": "李晓婷", 
+            "password": "143412345", 
+            "email": "asf333@qq.com", 
+            "phone": "13856617295",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Baidu",
+            "departName": "AI"
+        },
+        { 
+            "key": 4,
+            "descrip":"立普妥发言人他还自远方的狼。", 
+            "name": "李四", 
+            "password": "bhgr5431234", 
+            "email": "fdf343@qq.com", 
+            "phone": "13856617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Baidu",
+            "departName": "Cloud"
+        },
+        { 
+            "key": 5,
+            "descrip":"花巨款色如果自远方的狼。", 
+            "name": "王五", 
+            "password": "dvs0721234", 
+            "email": "dfdsf1133@qq.com", 
+            "phone": "13856617295",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Alibaba",
+            "departName": "Music"  
+        },
+        { 
+            "key": 6,
+            "descrip":"工会经费刚收到自远方的狼。", 
+            "name": "刘建国", 
+            "password": "4374561234", 
+            "email": "33d33@qq.com", 
+            "phone": "13856617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Game"  
+        },
+        { 
+            "key": 7,
+            "descrip":"是打发斯蒂芬来自远方的狼。", 
+            "name": "润文", 
+            "password": "562341234", 
+            "email": "4431f3@qq.com", 
+            "phone": "13856617295",
+            "honor": "manager",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Game"
+        },
+        { 
+            "key": 8,
+            "descrip":"湖集团远方的狼。", 
+            "name": "沙漠屠夫", 
+            "password": "1434561234", 
+            "email": "1ff33@qq.com", 
+            "phone": "13856617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        },
+        { 
+            "key": 9,
+            "descrip":"是否打算自远方的狼。", 
+            "name": "百合", 
+            "password": "1123rr4", 
+            "email": "4rer23@q53q.com", 
+            "phone": "13856617295",
+            "honor": "manager",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        },
+        { 
+            "key": 10,
+            "descrip":"大法师自远方的狼。", 
+            "name": "章节", 
+            "password": "561234", 
+            "email": "68353@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Alipay"
+        },
+        { 
+            "key": 11,
+            "descrip":"热GV是自远方的狼。", 
+            "name": "席发发", 
+            "password": "3451234", 
+            "email": "g12687@qq.com", 
+            "phone": "13856617535",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Baidu",
+            "departName": "AI"
+        },
+        { 
+            "key": 12,
+            "descrip":"大法师自远方的狼。", 
+            "name": "章节", 
+            "password": "561234", 
+            "email": "68353@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Game"
+        },
+        { 
+            "key": 13,
+            "descrip":"热GV是自远方的狼。", 
+            "name": "席发发", 
+            "password": "3451234", 
+            "email": "g12687@qq.com", 
+            "phone": "13856617535",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Baidu",
+            "departName": "Search"
+        },
+        { 
+            "key": 14,
+            "descrip":"大法师自远方的狼。", 
+            "name": "章节", 
+            "password": "561234", 
+            "email": "68353@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Music"
+        },
+        { 
+            "key": 15,
+            "descrip":"热GV是自远方的狼。", 
+            "name": "席发发", 
+            "password": "3451234", 
+            "email": "g12687@qq.com", 
+            "phone": "13856617535",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Tencent",
+            "departName": "QQ"
+        },
+        { 
+            "key": 16,
+            "descrip":"大法师自远方的狼。", 
+            "name": "章节", 
+            "password": "561234", 
+            "email": "68353@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        },
+        { 
+            "key": 17,
+            "descrip":"热GV是自远方的狼。", 
+            "name": "席发发", 
+            "password": "3451234", 
+            "email": "g12687@qq.com", 
+            "phone": "13856617535",
+            "honor": "manager",
+            "role": "monitor",
+            "companyName": "Baidu",
+            "departName": "Cloud"
+        },
+        { 
+            "key": 18,
+            "descrip":"幅度为而来自远方的狼。", 
+            "name": "tomcat",     
+            "password": "ef8712343", 
+            "email": "4f33fd3@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Game"
+        },
+        { 
+            "key": 19,
+            "descrip":"保存信息z自远方的狼。", 
+            "name": "赵静", 
+            "password": "nv7751234", 
+            "email": "23fdssd3@qq.com", 
+            "phone": "15556617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        },
+        { 
+            "key": 20,
+            "descrip":"幅度为而来自远方的狼。", 
+            "name": "tomcat",     
+            "password": "ef8712343", 
+            "email": "4f33fd3@qq.com", 
+            "phone": "15256617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Tencent",
+            "departName": "Game"
+        },
+        { 
+            "key": 21,
+            "descrip":"保存信息z自远方的狼。", 
+            "name": "赵静", 
+            "password": "nv7751234", 
+            "email": "23fdssd3@qq.com", 
+            "phone": "15556617295",
+            "honor": "employee",
+            "role": "admin",
+            "companyName": "Alibaba",
+            "departName": "Tmall"
+        }
+    ],
+
+    "company": [
+        {            
+            "companyId": 1,
+            "companyName": "All",
+            "departs": [
+                {
+                    "departId": 1,
+                    "departName": "All"
+                }              
+            ]
+        },
+        {            
+            "companyId": 2,
+            "companyName": "Baidu",
+            "departs": [
+                {
+                    "departId": 2,
+                    "departName": "All"
+                },                
+                {
+                    "departId": 3,
+                    "departName": "AI"
+                },
+                {
+                    "departId": 4,
+                    "departName": "Cloud"
+                },
+
+                {
+                    "departId": 5,
+                    "departName": "Search"
+                }
+            ]
+        },
+        {            
+            "companyId": 3,
+            "companyName": "Alibaba",
+            "departs": [
+                {
+                    "departId": 6,
+                    "departName": "All"
+                },
+                {
+                    "departId": 7,
+                    "departName": "Tmall"
+                },
+                {
+                    "departId": 8,
+                    "departName": "Alipay"
+                },
+                {
+                    "departId": 9,
+                    "departName": "Music"
+                }
+            ]
+        },
+        {        
+            "companyId": 4,
+            "companyName": "Tencent",
+            "departs": [
+                {
+                    "departId": 10,
+                    "departName": "All"
+                },
+                {
+                    "departId": 11,
+                    "departName": "QQ"
+                },
+                {
+                    "departId": 12,
+                    "departName": "Game"
+                },
+                {
+                    "departId": 13,
+                    "departName": "Mail"
+                }
+            ]
+        }
+    ]
+}

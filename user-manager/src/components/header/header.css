@@ -1,0 +1,54 @@
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.wrapper{
+    position: absolute;
+    top: 100px;
+    right: 100px;
+    width: 300px;
+    height: 400px;
+    background-color: #f2f2f2;
+}
+.wrapper ul{
+    width: 300px;
+    border-bottom: 1px solid #ccc; 
+    overflow: hidden;
+}
+.wrapper li{ 
+    float: right;
+    width: 114px;
+}
+.wrapper li a{
+    font-size: 18px;
+    color: rgb(136, 134, 134);
+}
+.wrapper li a:hover{
+    color: #108ee9;
+}
+
+/* login.js */
+
+.login-form-wrapper {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: #f2f2f2;
+}
+.login-form-wrapper .ant-form {
+    margin-left: 50px;
+    padding-top: 28px;
+}
+.login-form {
+    max-width: 300px;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}

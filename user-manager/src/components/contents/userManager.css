@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.container {
+  margin: 0 auto; }
+
+.StaffHeader {
+  font-size: 15px;
+  color: rgb(116, 114, 114);
+  padding-top: 20px; }
+
+.optHeader {
+  margin-bottom: 20px; }
+
+.optHeader, .itemPanel, .itemHead {
+  width: 100%;
+  text-align: center; }
+
+.itemHead tr {
+  display: table-cell;
+  text-align: center;
+  line-height: 50px;
+  border-bottom: 1px solid #999; }
+
+.itemHead th {
+  width: 100%;
+  display: block; }
+
+.itemPanel {
+  border-top: 1px solid #999; }
+
+.addForm {
+  text-align: center; }
+
+.overLay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  text-align: center; }
+
+.overLay table {
+  margin: 0 auto; }
+
+.tips-success, .tips-mes, .tips-age {
+  color: red;
+  display: none; }
+
+#idSelect, #orderSelect {
+  margin-left: 10px; }
+
+.tableBar {
+  line-height: 42px;
+  border-bottom: 1px solid #ccc; }
+
+.itemBtn{
+  margin-left: 10px; }
+
+#staffAddName, #staffAddAge, #staffAddEmail,#staffAddPhone,
+#staffEditName, #staffEditAge,#staffEditEmail,#staffEditPhone,
+#staffEditCompany, #staffEditDepart,#staffEditHonor,#staffEditRole {
+  outline: none;
+  border: 1px #ccc solid;
+  line-height: 25px;
+  padding-left: 12px;
+  width: 250px; }
+
+  #staffEditCompany, #staffEditDepart, #staffEditHonor,#staffEditRole,
+  #staffAddHonor, #staffAddRole {
+  padding: 4px 10px;
+  line-height: 28px;
+  outline: none;
+  width: 250px; }
+  
+  #staffAddDescrip, #staffEditDescrip {
+    width: 250px;
+  }
+
+.newTable {
+  margin-bottom: 10px; }
+
+.newLable {
+  width: 70px;
+  text-align: right;
+  margin-right: 10px;
+  display: inline-block; 
+}
+
+.content {
+  margin: 2% auto; }
+
+
+
+  /* 添加test type */
+.userData{
+  overflow: hidden
+}
+.userData ul{
+  float: left;
+  margin-left: 10px;
+}
